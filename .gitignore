@@ -1,0 +1,57 @@
+﻿# Visual Studio and VS Code
+*.suo
+*.snk
+/.vs
+/.vscode
+
+# JetBrains (IntelliJ, Rider, etc.)
+.idea/
+
+# Build output
+*/bin
+*/obj
+*.exe
+
+# Other
+*.log
+*.pdb
+*.db
+*.swp
+*.DotSettings.user
+
+# NuGet
+/packages
+
+# FDK
+/FDK/bin
+
+# OpenTaiko
+/OpenTaiko/bin
+/OpenTaiko/Cache
+/OpenTaiko/Capture_img
+/OpenTaiko/Config.ini
+/OpenTaiko/bs1770gain**
+/Test/dll/CSharpTest.Net.Collections.*
+/Test/dll/SlimDX.*
+/Test/dll/FDK.dll
+/OpenTaiko/NamePlate.json
+/OpenTaiko/Favorite.json
+/OpenTaiko/RecentlyPlayedSongs.json
+/OpenTaiko/SongsIgnored/*
+/OpenTaiko/SongsTest/*
+/OpenTaiko/SongsIgnored2/*
+/OpenTaiko/Saves
+
+/OpenTaiko/System/SimpleStyle 1080p (indev0.6.0)
+/OpenTaiko/System/BasicStyle
+/OpenTaiko/System/OpenSkin
+/OpenTaiko/System/SimpleStyle - コピー
+/OpenTaiko/Global/Characters/D
+/OpenTaiko/Global/Characters/Ume
+/OpenTaiko/Global/Characters/Kuro
+/OpenTaiko/Global/Characters/Aitritus
+/OpenTaiko/Global/Characters/Kohaku
+*.score.ini
+
+/OpenTaiko Launcher
+/OpenTaiko Launcher/node_modules
